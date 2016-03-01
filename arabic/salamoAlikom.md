@@ -23,3 +23,27 @@
  [freelancer](learn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
 
 [قرار شجاع](tough-decision/tough-decision.md)
+
+
+Objective C PDF
+https://www.bignerdranch.com/documents/objective-c-prereading-assignment.pdf
+
+Swift PDF
+
+http://carlosicaza.com/swiftbooks/SwiftLanguage.pdf
+
+
+Pearl PDF
+
+http://www.ptbeach.com/cms/lib02/NJ01000839/Centricity/Domain/211/The-Pearl-John-Steinbeck.pdf
+
+
+Jason PDF
+
+http://jason.sourceforge.net/Jason.pdf
+
+
+Javascript PDF
+
+http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf
+
